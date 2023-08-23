@@ -22,3 +22,7 @@ print(type(userId))
 
 print(type(str))
 print(type(int))
+
+print("Hello World", end=" and ")
+print("My name is Bohdan", end=" and ")
+print("My Nick is CDAugelo")
